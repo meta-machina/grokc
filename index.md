@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Guessing Machine
+title: Thingking Machine
 ---
-# Guessing Machine
+# Thingking Machine
 
 <br>
 Go directly to the [Dialogue Page]({{ 'machine' | relative_url }}) or change the settings.

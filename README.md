@@ -1,1 +1,1 @@
-### Guessing Machine (grok completions)
+### webmachine template (grokc)
